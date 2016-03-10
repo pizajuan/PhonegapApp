@@ -1,0 +1,2 @@
+# PhonegapApp
+Phonegap dummy app
